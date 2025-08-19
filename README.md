@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 你好 👋
-### Welcome to my homepage 😋
+
+[![chchenhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=chchenhui)](https://github.com/chchenhui/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangyanbao666/wangyanbao666/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangyanbao666/wangyanbao666/output/github-contribution-grid-snake.svg">
