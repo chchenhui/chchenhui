@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 你好 👋
 
-[![chchenhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=chchenhui&show_icons=true&cache_seconds=86400)](https://github.com/chchenhui/github-readme-stats)
+[![chchenhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=chchenhui&show_icons=true&cache_seconds=3600&v=20251225)](https://github.com/chchenhui/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chchenhui/chchenhui/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chchenhui/chchenhui/output/github-contribution-grid-snake.svg">
